@@ -32,8 +32,6 @@ CarGator is committed to creating innovative solutions, and these open-source pr
 - Link to the frontend repository.
 - Instructions on setting up and running the frontend application locally.
 
-
-
 ### 3. Driver Application
 
 - Brief description or purpose of the Driver application project.
@@ -72,14 +70,14 @@ Follow the instructions below to run the applications locally:
     $ npm install
     ```
 
-3. Start the backend server:
+3. Start the backend server locally:
 
     ```bash
-    $ npm start
+    $ npm run start:dev
     ```
 
 
-### Frontend Application
+### Frontend Web Application (Admin panel)
 
 1. Clone the frontend repository:
 
