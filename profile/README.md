@@ -1,4 +1,4 @@
-# Welcome to [Your Organization] Open Source Projects
+# Welcome to [CarGator] Open Source Projects
 
 ![Your Organization Logo](https://avatars.githubusercontent.com/u/140787853?s=200&v=4)
 
