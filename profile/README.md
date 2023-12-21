@@ -216,7 +216,7 @@ We welcome contributions from the community! To contribute to any of our project
 
 ## License
 
-This repository and its projects are licensed under the [MIT License](LICENSE.md).
+This repository and its projects are licensed under the [MIT License](../LICENSE).
 
 ## Contact
 
