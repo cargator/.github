@@ -84,8 +84,8 @@ Follow the instructions below to run the applications locally:
 1. Clone the frontend repository:
 
     ```bash
-    $ git clone [frontend_repository_url]
-    $ cd frontend
+    $ git clone https://github.com/cargator/New_Admin_Panel.git
+    $ cd New_Admin_Panel
     ```
 
 2. Install dependencies:
