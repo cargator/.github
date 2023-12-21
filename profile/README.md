@@ -1,6 +1,6 @@
 # Welcome to [Your Organization] Open Source Projects
 
-![Your Organization Logo]([link_to_your_organization_logo.png](https://avatars.githubusercontent.com/u/140787853?s=200&v=4))
+![Your Organization Logo](https://avatars.githubusercontent.com/u/140787853?s=200&v=4)
 
 Welcome to the open-source projects developed by [Your Organization]. This repository hosts multiple projects, including frontend, backend, and client applications. Below, you'll find guidance on setting up and running these applications.
 
