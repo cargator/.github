@@ -54,8 +54,8 @@ Follow the instructions below to run the applications locally:
 1. Clone the backend repository:
 
     ```bash
-    $ git clone [backend_repository_url]
-    $ cd backend
+    $ git clone https://github.com/cargator/socket-server.git
+    $ cd socket-server
     ```
 
 2. Install dependencies:
@@ -93,13 +93,35 @@ Follow the instructions below to run the applications locally:
     ```
     
 
-### Client Application
+### Driver Application
 
 1. Clone the client application repository:
 
     ```bash
-    $ git clone [client_app_repository_url]
-    $ cd client-app
+    $ git clone https://github.com/cargator/driver-app.git
+    $ cd driver-app
+    ```
+
+2. Install dependencies:
+
+    ```bash
+    $ npm install
+    ```
+
+3. Run the client application:
+
+    ```bash
+    $ npm start
+    ```
+
+
+### Rider Application
+
+1. Clone the client application repository:
+
+    ```bash
+    $ git clone https://github.com/cargator/rider-app.git
+    $ cd rider-app
     ```
 
 2. Install dependencies:
