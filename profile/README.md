@@ -20,23 +20,31 @@ CarGator is committed to creating innovative solutions, and these open-source pr
 
 ## Projects
 
-### 1. Frontend
-
-- Brief description or purpose of the frontend project.
-- Link to the frontend repository.
-- Instructions on setting up and running the frontend application locally.
-
-### 2. Backend
+### 1. Backend
 
 - Brief description or purpose of the backend project.
 - Link to the backend repository.
 - Instructions on setting up and running the backend server locally.
 
-### 3. Client Application
+### 2. Frontend
 
-- Brief description or purpose of the client application project.
-- Link to the client application repository.
-- Instructions on setting up and running the client application locally.
+- Brief description or purpose of the frontend project.
+- Link to the frontend repository.
+- Instructions on setting up and running the frontend application locally.
+
+
+
+### 3. Driver Application
+
+- Brief description or purpose of the Driver application project.
+- Link to the Driver application repository.
+- Instructions on setting up and running the Driver application locally.
+
+### 4. Rider Application
+
+- Brief description or purpose of the Rider application project.
+- Link to the Rider application repository.
+- Instructions on setting up and running the Rider application locally.
 
 ## Getting Started
 
