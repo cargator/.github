@@ -23,25 +23,25 @@ CarGator is committed to creating innovative solutions, and these open-source pr
 ### 1. Backend
 
 - Brief description or purpose of the backend project.
-- Link to the backend repository.
+- Link to the backend repository: https://github.com/cargator/socket-server.git
 - Instructions on setting up and running the backend server locally.
 
 ### 2. Frontend
 
 - Brief description or purpose of the frontend project.
-- Link to the frontend repository.
+- Link to the frontend repository: https://github.com/cargator/New_Admin_Panel.git
 - Instructions on setting up and running the frontend application locally.
 
 ### 3. Driver Application
 
 - Brief description or purpose of the Driver application project.
-- Link to the Driver application repository.
+- Link to the Driver application repository: https://github.com/cargator/driver-app.git
 - Instructions on setting up and running the Driver application locally.
 
 ### 4. Rider Application
 
 - Brief description or purpose of the Rider application project.
-- Link to the Rider application repository.
+- Link to the Rider application repository: https://github.com/cargator/rider-app.git
 - Instructions on setting up and running the Rider application locally.
 
 ## Getting Started
@@ -212,7 +212,7 @@ yarn ios
 
 ## Contributing
 
-We welcome contributions from the community! To contribute to any of our projects, please follow the [contribution guidelines](CONTRIBUTING.md) provided in each project's repository.
+We welcome contributions from the community! To contribute to any of our projects, please follow the [contribution guidelines](../CONTRIBUTING.md) provided in each project's repository.
 
 ## License
 
