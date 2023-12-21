@@ -135,13 +135,7 @@ Follow the instructions below to run the applications locally:
     ```bash
     $ npm install
     ```
-
-3. Run the client application:
-
-    ```bash
-    $ npm start
-    ```
-
+3. Running application
 
 >**Note**: Make sure you have completed the [React Native - Environment Setup](https://reactnative.dev/docs/environment-setup) instructions till "Creating a new application" step, before proceeding.
 
