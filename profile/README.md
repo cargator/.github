@@ -40,7 +40,7 @@ CarGator is committed to creating innovative solutions, and these open-source pr
 
 ## Getting Started
 
-To get started with [Your Organization]'s projects, ensure you have the following prerequisites installed:
+To get started with CarGator's projects, ensure you have the following prerequisites installed:
 
 - List of prerequisites (e.g., Node.js, npm, Python, etc.)
 - Any additional tools or dependencies required for running the projects.
@@ -48,27 +48,6 @@ To get started with [Your Organization]'s projects, ensure you have the followin
 ## Running the Applications
 
 Follow the instructions below to run the applications locally:
-
-### Frontend Application
-
-1. Clone the frontend repository:
-
-    ```bash
-    $ git clone [frontend_repository_url]
-    $ cd frontend
-    ```
-
-2. Install dependencies:
-
-    ```bash
-    $ npm install
-    ```
-
-3. Start the development server:
-
-    ```bash
-    $ npm start
-    ```
 
 ### Backend Application
 
@@ -90,6 +69,29 @@ Follow the instructions below to run the applications locally:
     ```bash
     $ npm start
     ```
+
+
+### Frontend Application
+
+1. Clone the frontend repository:
+
+    ```bash
+    $ git clone [frontend_repository_url]
+    $ cd frontend
+    ```
+
+2. Install dependencies:
+
+    ```bash
+    $ npm install
+    ```
+
+3. Start the development server:
+
+    ```bash
+    $ npm start
+    ```
+    
 
 ### Client Application
 
