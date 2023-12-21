@@ -1,8 +1,8 @@
-# Welcome to [CarGator] Open Source Projects
+# Welcome to CarGator Open Source Projects
 
 ![Your Organization Logo](https://avatars.githubusercontent.com/u/140787853?s=200&v=4)
 
-Welcome to the open-source projects developed by [Your Organization]. This repository hosts multiple projects, including frontend, backend, and client applications. Below, you'll find guidance on setting up and running these applications.
+Welcome to the open-source projects developed by CarGator. This repository hosts multiple projects, including frontend, backend, and client-app applications. Below, you'll find guidance on setting up and running these applications.
 
 ## Table of Contents
 
@@ -16,7 +16,7 @@ Welcome to the open-source projects developed by [Your Organization]. This repos
 
 ## Introduction
 
-[Your Organization] is committed to creating innovative solutions, and these open-source projects reflect our dedication to fostering collaboration and contributing to the developer community.
+CarGator is committed to creating innovative solutions, and these open-source projects reflect our dedication to fostering collaboration and contributing to the developer community.
 
 ## Projects
 
