@@ -214,7 +214,7 @@ We welcome contributions from the community! To contribute to any of our project
 
 ## License
 
-This repository and its projects are licensed under the [MIT License](https://github.com/${{ github.repository_owner }}/${{ github.repository }}/blob/main/LICENSE).
+This repository and its projects are licensed under the [MIT License](https://github.com/USERNAME/REPOSITORY/blob/main/LICENSE).
 
 ## Contact
 
