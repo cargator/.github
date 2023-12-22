@@ -1,4 +1,4 @@
-# CarGator Open Source Projects
+# CarGator Projects
 
 ![Your Organization Logo](https://avatars.githubusercontent.com/u/140787853?s=200&v=4)
 
