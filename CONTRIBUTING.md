@@ -1,4 +1,4 @@
-# Contribution Guidelines for CarGator Project
+# Contribution Guidelines for CarGator Projects
 
 Thank you for considering contributing to the CarGator projects! We welcome contributions from the community to help improve our ride booking service. Please take a moment to review the guidelines outlined below to ensure a smooth and collaborative contribution process.
 
