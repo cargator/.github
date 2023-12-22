@@ -210,11 +210,11 @@ yarn ios
 
 ## Contributing
 
-We welcome contributions from the community! To contribute to any of our projects, please follow the [contribution guidelines](../CONTRIBUTING.md) provided in each project's repository.
+We welcome contributions from the community! To contribute to any of our projects, please follow the [contribution guidelines](CONTRIBUTING.md) provided in each project's repository.
 
 ## License
 
-This repository and its projects are licensed under the [MIT License](../LICENSE).
+This repository and its projects are licensed under the [MIT License](LICENSE).
 
 ## Contact
 
