@@ -7,6 +7,7 @@ Welcome to the open-source projects developed by CarGator. This repository hosts
 ## Table of Contents
 
 - [Introduction](#introduction)
+- [Technical Architecture](#technical-architecture)
 - [Projects](#projects)
 - [Getting Started](#getting-started)
 - [Running the Applications](#running-the-applications)
