@@ -49,10 +49,19 @@ It is committed to creating innovative solutions, and these open-source projects
 
 ## Getting Started
 
-To get started with CarGator's projects, ensure you have the following prerequisites installed:
+Before you begin, ensure you have the following prerequisites installed:
 
-- List of prerequisites (e.g., Node.js, npm, docker, docker-compose, git)
-- Any additional tools or dependencies required for running the projects.
+- Node.js: [Download and install Node.js.](https://nodejs.org)
+- npm or Yarn: Install npm (comes with Node.js) or Yarn.
+- IDE: Choose an Integrated Development Environment (IDE) such as Visual Studio Code, Sublime Text, or any other of your choice.
+- Docker: Make sure you have installed docker and docker-compose in your system. [install docker](https://docs.docker.com/desktop/)
+- git: git require for accessing repository. [install git](https://git-scm.com/downloads)
+
+**Note:**
+- For detailed instructions and specific commands, refer to the README files in each repository.
+- If you encounter any issues or have questions, feel free to reach out to our community or create an issue in the respective repository.
+
+Get started by cloning the repositories and following the setup instructions for each component. Happy coding!
 
 ## Contributing
 
