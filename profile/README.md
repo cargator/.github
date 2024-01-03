@@ -19,6 +19,10 @@ Welcome to the open-source projects developed by CarGator. This repository hosts
 CarGator is an all-encompassing ride booking application that brings convenience to your fingertips. Offering a seamless experience for riders, drivers, and administrators alike, CarGator simplifies the process of booking rides while ensuring a smooth operation for everyone involved.
 It is committed to creating innovative solutions, and these open-source projects reflect our dedication to fostering collaboration and contributing to the developer community.
 
+## Technical Architecture
+
+![image](https://github.com/cargator/.github/assets/89575921/cd54e5db-6b96-4166-bf0c-1754e49864c5)
+
 ## Projects
 
 ### 1. Backend
