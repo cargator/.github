@@ -53,7 +53,7 @@ Before you begin, ensure you have the following prerequisites installed:
 
 - Node.js: [Download and install Node.js.](https://nodejs.org)
 - npm or Yarn: Install npm (comes with Node.js) or Yarn.
-- IDE: Choose an Integrated Development Environment (IDE) such as Visual Studio Code, Sublime Text, or any other of your choice.
+- IDE: Choose an Integrated Development Environment (IDE) such as [Visual Studio Code](https://code.visualstudio.com/), [Sublime Text](https://www.sublimetext.com/), or any other of your choice.
 - Docker: Make sure you have installed docker and docker-compose in your system. [install docker](https://docs.docker.com/desktop/)
 - git: git require for accessing repository. [install git](https://git-scm.com/downloads)
 
