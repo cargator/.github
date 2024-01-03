@@ -58,27 +58,27 @@ Before you begin, ensure you have the following prerequisites installed:
 - git: git require for accessing repository. [install git](https://git-scm.com/downloads)
 
 
-1. **Frontend Admin Panel Setup:**
+**1. Frontend Admin Panel Setup:**
 
 - Clone the [repository](https://github.com/cargator/New_Admin_Panel.git).
 - Navigate to the project directory.
 - Install dependencies using npm or Yarn.
 - Follow additional instructions in the README file.
 
-2. **Backend API Socket Server Setup:**
+**2. Backend API Socket Server Setup:**
 
 - Clone the [repository](https://github.com/cargator/socket-server.git).
 - Configure environment variables.
 - Install necessary packages.
 - Start the server using provided commands.
 
-3. **Mobile App for Riders Setup:**
+**3. Mobile App for Riders Setup:**
 
 - Clone the [repository](https://github.com/cargator/rider-app.git).
 - Install required dependencies.
 - Follow platform-specific instructions for building and running the app.
 
-4. **Mobile App for Drivers Setup:**
+**4. Mobile App for Drivers Setup:**
 
 - Clone the [repository](https://github.com/cargator/driver-app.git).
 - Install necessary packages.
