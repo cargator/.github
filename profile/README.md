@@ -22,7 +22,8 @@ It is committed to creating innovative solutions, and these open-source projects
 
 ## Technical Architecture
 
-![image](https://github.com/cargator/.github/assets/89575921/cd54e5db-6b96-4166-bf0c-1754e49864c5)
+![image](https://github.com/cargator/.github/assets/89575921/dec61eeb-ebee-4a95-a597-fe6661afe8e9)
+
 
 ## Projects
 
