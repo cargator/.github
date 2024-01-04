@@ -96,7 +96,7 @@ Get started by cloning the repositories and following the setup instructions for
 
 ## Contributing
 
-We welcome contributions from the community! To contribute in our project, please follow the [contribution guidelines](https://github.com/cargator/.github/blob/main/profile/CONTRIBUTING.md) provided.
+We welcome contributions from the community! To contribute in our project, please follow the [contribution guidelines](https://github.com/cargator/.github/blob/main/profile/CONTRIBUTING.md).
 
 ## License
 
