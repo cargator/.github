@@ -2,7 +2,7 @@
 
 ![Your Organization Logo](https://avatars.githubusercontent.com/u/140787853?s=200&v=4)
 
-Welcome to the open-source projects developed by CarGator. This repository hosts multiple projects, including frontend, backend, and client-app applications. Below, you'll find guidance on setting up and running these applications.
+Welcome to the open-source project developed by CarGator. This repository hosts multiple projects, including frontend, backend, and client-app applications. Below, you'll find guidance on setting up and running these applications on locally same step will follow for running it on servers.
 
 ## Table of Contents
 
