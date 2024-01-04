@@ -104,6 +104,6 @@ This repository and its projects are licensed under the [MIT License](https://gi
 
 If you have any questions, feedback, or suggestions, feel free to reach out to us:
 
-- Email: contact@yourorganization.com
-- Website: [yourorganization.com](https://www.yourorganization.com)
-- GitHub: [YourOrganization](https://github.com/YourOrganization)
+- Email: hello@cargator.org
+- Website: [cargator.org](https://cargator.org)
+- GitHub: [cargator](https://github.com/cargator)
