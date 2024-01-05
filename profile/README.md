@@ -1,4 +1,4 @@
-# CarGator - open-source mobility stack
+# CarGator - the open-source mobility stack
 
 ![Your Organization Logo](https://avatars.githubusercontent.com/u/140787853?s=200&v=4)
 
