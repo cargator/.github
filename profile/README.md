@@ -105,6 +105,6 @@ This project and its repositories are licensed under the [MIT License](https://g
 
 If you have any questions, feedback, or suggestions, feel free to reach out to us:
 
-- Email: hello@cargator.org
+- Email: beep@cargator.org
 - Website: [cargator.org](https://cargator.org)
 - GitHub: [cargator](https://github.com/cargator)
