@@ -1,8 +1,8 @@
-# CarGator - the open-source mobility stack
+# CarGator - open-source mobility stack
 
 ![Your Organization Logo](https://avatars.githubusercontent.com/u/140787853?s=200&v=4)
 
-Welcome to the open-source project developed by CarGator. This repository hosts multiple project, including frontend, backend, and client-app applications. Below, you'll find guidance on setting up and running these applications on locally same step will follow for running it on servers.
+Welcome to the open-source mobility project developed by CarGator. This project hosts multiple repositories - including frontend (admin panel), backend, customer and driver apps. Below is a guide on setting up and running these applications locally and the same steps you can follow for running it on your own cloud servers.
 
 ## Table of Contents
 
