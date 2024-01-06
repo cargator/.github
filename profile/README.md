@@ -2,7 +2,7 @@
 
 ![Your Organization Logo](https://avatars.githubusercontent.com/u/140787853?s=200&v=4)
 
-Welcome to the open-source mobility project developed by CarGator. This project hosts multiple repositories - including frontend (admin panel), backend, customer and driver apps. Below is a guide on setting up and running these applications locally and the same steps you can follow for running it on your own cloud servers.
+Welcome to the open-source mobility project developed by CarGator. This project hosts multiple repositories - including backend, frontend (admin panel), customer and driver apps. Below is a guide on setting up and running these applications locally and the same steps you can follow for running it on your own cloud servers.
 
 ## Table of Contents
 
@@ -32,7 +32,7 @@ It is committed to creating innovative solutions, and these open-source project 
 - The backend repository for CarGator serves as the backbone of the entire ride booking ecosystem, ensuring real-time communication and seamless interaction between riders, drivers, and administrators. Powered by WebSockets and built upon the robust Express.js framework, this backend system forms the core of CarGator's efficient operation.
 - Link to the backend repository: https://github.com/cargator/socket-server.git
 
-### 2. Admin Pamel
+### 2. Admin Panel
 
 - The CarGator Admin Panel is a powerful and user-friendly interface designed to streamline administrative operations, monitor the ride booking system, and ensure smooth management of the entire CarGator ecosystem. Developed using React.js, this frontend application offers a sophisticated yet intuitive dashboard for administrators to efficiently oversee and control the ride booking service.
 - Link to the frontend repository: https://github.com/cargator/New_Admin_Panel.git
