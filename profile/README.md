@@ -7,6 +7,7 @@ Welcome to the open-source mobility project developed by CarGator. This project 
 ## Table of Contents
 
 - [Introduction](#introduction)
+- [Apps Demo](#Apps-Demo)
 - [Technical Architecture](#technical-architecture)
 - [Repositories](#repositories)
 - [Getting Started](#getting-started)
