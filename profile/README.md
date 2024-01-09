@@ -41,22 +41,22 @@ https://github.com/cargator/.github/assets/122884248/a9e95d25-814d-4f85-a344-31c
 ### 1. Backend
 
 - The backend repository for CarGator serves as the backbone of the entire ride booking ecosystem, ensuring real-time communication and seamless interaction between riders, drivers, and administrators. Powered by WebSockets and built upon the robust Express.js framework, this backend system forms the core of CarGator's efficient operation.
-- Link to the backend repository: https://github.com/cargator/socket-server.git
+- Link to the backend repository: [https://github.com/cargator/cargator-admin-panel](https://github.com/cargator/cargator-backend)
 
 ### 2. Admin Panel
 
 - The CarGator Admin Panel is a powerful and user-friendly interface designed to streamline administrative operations, monitor the ride booking system, and ensure smooth management of the entire CarGator ecosystem. Developed using React.js, this frontend application offers a sophisticated yet intuitive dashboard for administrators to efficiently oversee and control the ride booking service.
-- Link to the frontend repository: https://github.com/cargator/New_Admin_Panel.git
+- Link to the frontend repository: https://github.com/cargator/cargator-admin-panel](https://github.com/cargator/cargator-admin-panel)
 
 ### 3. Driver Application
 
 - The CarGator Driver App is a mobile application built on React Native, specifically tailored to empower drivers with a user-friendly and efficient tool for managing ride requests, navigating routes, and providing top-notch service to riders. Designed for ease of use and optimal performance, this app ensures a seamless experience for drivers operating within the CarGator ride booking service.
-- Link to the Driver application repository: https://github.com/cargator/driver-app.git
+- Link to the Driver application repository: [https://github.com/cargator/cargator-driver-app](https://github.com/cargator/cargator-driver-app)
 
 ### 4. Rider Application
 
 - The CarGator Rider App is a mobile application developed on React Native, offering riders a convenient, user-friendly, and reliable platform to book rides, track their journey, and enjoy a seamless travel experience within the CarGator ride booking service. With a focus on simplicity and functionality, this app ensures a hassle-free experience for riders seeking transportation.
-- Link to the Rider application repository: https://github.com/cargator/rider-app.git
+- Link to the Rider application repository: [https://github.com/cargator/cargator-rider-app](https://github.com/cargator/cargator-rider-app)
 
 
 ## Getting Started
@@ -67,35 +67,35 @@ Before you begin, ensure you have the following prerequisites installed:
 - npm or Yarn: Install npm (comes with Node.js) or Yarn.
 - IDE: Choose an Integrated Development Environment (IDE) such as [Visual Studio Code](https://code.visualstudio.com/), [Sublime Text](https://www.sublimetext.com/), or any other of your choice.
 - Docker: Make sure you have installed docker and docker-compose in your system. [install docker](https://docs.docker.com/desktop/)
-- git: git require for accessing repository. [install git](https://git-scm.com/downloads)
+- git: git is required for accessing repositories. [install git](https://git-scm.com/downloads)
+  
 
+**1. Backend API Server Setup:**
 
-**1. Frontend Admin Panel Setup:**
+- Clone the [repository](https://github.com/cargator/cargator-backend).
+- Configure environment variables.
+- Install necessary packages.
+- Start the server using provided commands.
+  
+**2. Frontend Admin Panel Setup:**
 
-- Clone the [repository](https://github.com/cargator/New_Admin_Panel.git).
+- Clone the [repository](https://github.com/cargator/cargator-admin-panel).
 - Navigate to the project directory.
 - Install dependencies using npm or Yarn.
 - Follow additional instructions in the README file.
 
-**2. Backend API Server Setup:**
+**3. Mobile App for Drivers Setup:**
 
-- Clone the [repository](https://github.com/cargator/socket-server.git).
-- Configure environment variables.
-- Install necessary packages.
-- Start the server using provided commands.
-
-**3. Mobile App for Riders Setup:**
-
-- Clone the [repository](https://github.com/cargator/rider-app.git).
-- Install required dependencies.
-- Follow platform-specific instructions for building and running the app.
-
-**4. Mobile App for Drivers Setup:**
-
-- Clone the [repository](https://github.com/cargator/driver-app.git).
+- Clone the [repository](https://github.com/cargator/cargator-driver-app).
 - Install necessary packages.
 - Configure any environment-specific settings.
 - Build and run the app using the provided instructions.
+
+**4. Mobile App for Riders Setup:**
+
+- Clone the [repository](https://github.com/cargator/cargator-rider-app).
+- Install required dependencies.
+- Follow platform-specific instructions for building and running the app.
 
 
 **Note:**
