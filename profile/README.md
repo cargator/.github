@@ -41,7 +41,7 @@ https://github.com/cargator/.github/assets/122884248/a9e95d25-814d-4f85-a344-31c
 ### 1. Backend
 
 - The backend repository for CarGator serves as the backbone of the entire ride booking ecosystem, ensuring real-time communication and seamless interaction between riders, drivers, and administrators. Powered by WebSockets and built upon the robust Express.js framework, this backend system forms the core of CarGator's efficient operation.
-- Link to the backend repository: [https://github.com/cargator/cargator-admin-panel](https://github.com/cargator/cargator-backend)
+- Link to the backend repository: [https://github.com/cargator/cargator-backend](https://github.com/cargator/cargator-backend)
 
 ### 2. Admin Panel
 
