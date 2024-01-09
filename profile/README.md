@@ -46,7 +46,7 @@ https://github.com/cargator/.github/assets/122884248/a9e95d25-814d-4f85-a344-31c
 ### 2. Admin Panel
 
 - The CarGator Admin Panel is a powerful and user-friendly interface designed to streamline administrative operations, monitor the ride booking system, and ensure smooth management of the entire CarGator ecosystem. Developed using React.js, this frontend application offers a sophisticated yet intuitive dashboard for administrators to efficiently oversee and control the ride booking service.
-- Link to the frontend repository: https://github.com/cargator/cargator-admin-panel](https://github.com/cargator/cargator-admin-panel)
+- Link to the frontend repository: [https://github.com/cargator/cargator-admin-panel](https://github.com/cargator/cargator-admin-panel)
 
 ### 3. Driver Application
 
