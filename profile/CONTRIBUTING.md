@@ -55,18 +55,18 @@ To set up the development environment, follow these steps:
 
 To set up the development environment for any of our repositories, follow these steps:
 
-1. There are four repositories. Choose the repository you want to work on:
+1. There are four repositories of CarGator. Choose the repository you want to work on:
 
    - [cargator-admin-panel] :  [https://github.com/cargator/cargator-admin-panel](https://github.com/cargator/cargator-admin-panel)
 
-   - [cargator-backend] :      [https://github.com/cargator/cargator-admin-panel](https://github.com/cargator/cargator-backend)
+   - [cargator-backend] :      [https://github.com/cargator/cargator-backend](https://github.com/cargator/cargator-backend)
 
-   - [cargator-driver-app] :   [https://github.com/cargator/cargator-admin-panel](https://github.com/cargator/cargator-driver-app)
+   - [cargator-driver-app] :   [https://github.com/cargator/cargator-driver-app](https://github.com/cargator/cargator-driver-app)
 
-   - [cargator-rider-app] :    [https://github.com/cargator/cargator-admin-panel](https://github.com/cargator/cargator-rider-app)
+   - [cargator-rider-app] :    [https://github.com/cargator/cargator-rider-app](https://github.com/cargator/cargator-rider-app)
 
 
-2. For further process . you follow [README](README.md) file
+2. For more information . you can follow [README](README.md) file
 
 ## Pull Request Process
 
