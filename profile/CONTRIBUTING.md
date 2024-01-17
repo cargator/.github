@@ -51,12 +51,22 @@ Feel free to engage with the community by discussing your enhancement idea with 
 
 To set up the development environment, follow these steps:
 
-1. Clone the repository:
-   
-    ```bash
-    git clone https://github.com/cargator/socket-server.git
-    ```
-3. Install dependencies: `npm install` or `yarn install`.
+## Development Setup
+
+To set up the development environment for any of our repositories, follow these steps:
+
+1. There are four repositories. Choose the repository you want to work on:
+
+   - [cargator-admin-panel] :  [https://github.com/cargator/cargator-admin-panel](https://github.com/cargator/cargator-admin-panel)
+
+   - [cargator-backend] :      [https://github.com/cargator/cargator-admin-panel](https://github.com/cargator/cargator-backend)
+
+   - [cargator-driver-app] :   [https://github.com/cargator/cargator-admin-panel](https://github.com/cargator/cargator-driver-app)
+
+   - [cargator-rider-app] :    [https://github.com/cargator/cargator-admin-panel](https://github.com/cargator/cargator-rider-app)
+
+
+2. For further process . you follow [README](README.md) file
 
 ## Pull Request Process
 
