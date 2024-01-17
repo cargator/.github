@@ -13,8 +13,7 @@ The following is a set of guidelines for contributing to CarGator. These are jus
     - [Code Contribution](#code-contribution)
 3. [Development Setup](#development-setup)
 4. [Pull Request Process](#pull-request-process)
-5. [Code of Conduct](#code-of-conduct)
-6. [License](#license)
+5. [License](#license)
 
 ## Code of Conduct
 
