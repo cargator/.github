@@ -24,11 +24,11 @@ Please note that this project is released with a [Contributor Code of Conduct](C
 
 ### Reporting Bugs
 
-If you find a bug, please open an issue on the [issue tracker](link-to-issue-tracker) with a clear and detailed description. Follow the template provided to ensure all necessary information is included.
+If you find a bug, please open an issue on the [CarGator issue tracker](https://github.com/cargator/.github/issues) with a clear and detailed description. Follow the template provided to ensure all necessary information is included.
 
 ### Suggesting Enhancements
 
-Have an idea for an enhancement? Great! Open an issue on the [issue tracker](link-to-issue-tracker) and use the "Enhancement" label. Provide as much detail as possible and discuss it with the community.
+Have an idea for an enhancement? Great! Open an issue on the [CarGator issue tracker](https://github.com/cargator/.github/issues) and use the "Enhancement" label. Provide as much detail as possible and discuss it with the community.
 
 ### Code Contribution
 
