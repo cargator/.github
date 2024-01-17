@@ -18,17 +18,27 @@ The following is a set of guidelines for contributing to CarGator. These are jus
 
 ## Code of Conduct
 
-Please note that this project is released with a [Contributor Code of Conduct](CODE_OF_CONDUCT.md). By participating in this project you agree to abide by its terms.
+Please note that this project is released with a [Contributor Code of Conduct](CODE_OF_CONDUCT.md). Please follow our [Code of Conduct](CODE_OF_CONDUCT.md) to ensure a positive and inclusive environment for everyone. By participating in this project you agree to abide by its terms.
 
 ## How Can I Contribute?
 
 ### Reporting Bugs
 
-If you find a bug, please open an issue on the [CarGator issue tracker](https://github.com/cargator/.github/issues) with a clear and detailed description. Follow the template provided to ensure all necessary information is included.
+If you encounter a bug while using CarGator, we appreciate your help in improving the project. To report a bug:
+
+1. Navigate to the [CarGator issue tracker](https://github.com/cargator/.github/issues).
+2. Click on the "New Issue" button.
+3. Provide a clear and detailed description of the bug.
 
 ### Suggesting Enhancements
 
-Have an idea for an enhancement? Great! Open an issue on the [CarGator issue tracker](https://github.com/cargator/.github/issues) and use the "Enhancement" label. Provide as much detail as possible and discuss it with the community.
+We welcome your ideas for enhancing CarGator! To suggest an enhancement:
+
+1. Go to the [CarGator issue tracker](https://github.com/cargator/.github/issues).
+2. Click on the "New Issue" button.
+3. Provide a detailed description of your enhancement idea.
+
+Feel free to engage with the community by discussing your enhancement idea with others in the comments.
 
 ### Code Contribution
 
@@ -55,10 +65,6 @@ To set up the development environment, follow these steps:
 2. Include any necessary documentation updates related to your changes.
 3. Update the README if needed.
 4. Pull requests should be submitted to the `main` branch.
-
-## Code of Conduct
-
-Please follow our [Code of Conduct](CODE_OF_CONDUCT.md) to ensure a positive and inclusive environment for everyone.
 
 ## License
 
