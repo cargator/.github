@@ -33,8 +33,7 @@ https://github.com/cargator/.github/assets/122884248/8dd29535-304e-4cab-8f4f-1ad
 
 ## Technical Architecture
 
-![image](https://github.com/cargator/.github/assets/89575921/789ce6bc-bcee-4ea9-a35f-9a41a4de8c6f)
-
+![image](https://github.com/cargator/.github/assets/89575921/0c17d4e8-7fc2-4bad-a05c-fdcb1f7e004a)
 
 ## Repositories
 
