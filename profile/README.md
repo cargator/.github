@@ -7,7 +7,7 @@ Welcome to the open-source mobility, logistics, and proximity based project deve
 ## Table of Contents
 
 - [Introduction](#introduction)
-- [Apps Demo](#Apps-Demo)
+- [App Demos](#App-Demos)
 - [Technical Architecture](#technical-architecture)
 - [Repositories](#repositories)
 - [Getting Started](#getting-started)
@@ -21,7 +21,7 @@ Welcome to the open-source mobility, logistics, and proximity based project deve
 CarGator is an all-encompassing ride booking application that brings convenience to your fingertips. Offering a seamless experience for riders, drivers, and administrators alike, CarGator simplifies the process of booking rides while ensuring a smooth operation for everyone involved.
 It is committed to creating innovative solutions, and these open-source project reflect our dedication to fostering collaboration and contributing to the developer community.
 
-## Apps Demo 
+## App Demos
 <div align="center">
   
 https://github.com/cargator/.github/assets/122884248/7b721caf-88e0-4269-8a76-3fdab63df968
